@@ -1,3 +1,4 @@
+# typed: true
 module Blog
   def self.table_name_prefix
     'blog_'
